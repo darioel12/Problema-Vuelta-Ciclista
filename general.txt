@@ -1,0 +1,11 @@
+30,1 NIBALI, Vincenzo
+32,5 MOSQUERA, Ezequiel
+25,0 VELITS, Peter
+30,0 RODRIGUEZ, Joaquin
+34,6 SCHLECK, Frank
+60,0 TONDO, Xavier
+62,5 ROCHE, Nicholas
+62,3 SASTRE, Carlos
+75,0 DANIELSON, Thomas
+65,0 SÁNCHEZ, Luis León
+125,0 NOLLEGO, Siempre Último
